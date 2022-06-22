@@ -26,3 +26,7 @@ Upgrades include:
 ![alt text](https://github.com/dv-dev-6000/WizWars/blob/master/Gallery/WizTitle.gif)
 
 ![alt text](https://github.com/dv-dev-6000/WizWars/blob/master/Gallery/WizDemo.gif)
+
+![alt text](https://github.com/dv-dev-6000/WizWars/blob/master/Gallery/IntroScreen.png)
+
+![alt text](https://github.com/dv-dev-6000/WizWars/blob/master/Gallery/inGame.png)
