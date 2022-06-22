@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Spritefont and RNG variables are intentionally publicly accessible static variables and can be accessed from any class. ">
+    <Position X="4.832" Y="0.552" Height="0.945" Width="2.117" />
+  </Comment>
+  <Class Name="WizWars.StaticGraphic">
+    <Position X="8.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAgAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.MotionGraphic">
+    <Position X="8.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAQAAAAQAAAAQAAAAAAAAAAQA=</HashCode>
+      <FileName>BasicGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.Animated2D">
+    <Position X="8.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAAAABAAAEAAAAAIAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BasicGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.CauldronClass">
+    <Position X="11" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAERAAABCAAAAAAgCAAAAAAAAAA=</HashCode>
+      <FileName>CauldronClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.ExplosionClass">
+    <Position X="5.5" Y="12.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MEAAAQAAABAACAAAACEBAAQBIAAAgIQACAAAAQAgAAY=</HashCode>
+      <FileName>ExplosionClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.Game1">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KI1kEwAGK9ACJ4EB0CogIQYAggNERQgyxKMgIkLCYbQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.MapClass">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAQAAAAAAEBABUBAAAQAAAAAACAAAAAAABAAAA=</HashCode>
+      <FileName>MapClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.PlayerClass">
+    <Position X="8.5" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgEAAAARAAEAAAEAqAAJCQACAkCEAAAAAAAAAAE=</HashCode>
+      <FileName>PlayerClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.PowerUpClass">
+    <Position X="11" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAAAAAAAAAAlBgAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>PowerUpClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.Program">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.Rotating2D">
+    <Position X="5.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAABAAACAAECEAAAAAAAAAAAAAAAAAAAAhAAA=</HashCode>
+      <FileName>BasicGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.ButtonClass">
+    <Position X="5.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAEAAAAAEAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ButtonClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizWars.HUDClass">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>HUDClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="WizWars.Camera2d">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="WizWars.GameState">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WizWars.Direction">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>PlayerClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WizWars.GameMode">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAJA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
