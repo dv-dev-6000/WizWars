@@ -2,7 +2,7 @@
 
 ## Repository Navigation 
 
-Project Main File: Game1
+Project Main File: WizWars/Game1
 
 ## Playable Download Link 
 
